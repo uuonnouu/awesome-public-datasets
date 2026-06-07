@@ -216,6 +216,8 @@ Climate+Weather
     
 ComplexNetworks
 ---------------
+
+* |OK_ICON| `Dmension Dataset <https://github.com>`_ [`Meta <https://github.com/uuonnouu/dmension-dataset-.git>`_]
         
 * |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
         
